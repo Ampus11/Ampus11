@@ -1,73 +1,52 @@
 <div align="center">
-  <img src="download.jpg" width="130px" style="border-radius: 50%;" alt="Rizky Avatar" />
+  <img src="./avatar.png" width="130px" style="border-radius: 50%;" alt="Rizky Avatar" />
   
-  <h1>Halo semua, saya <a href="https://github.com/Ampus11">Rizky Fadlurrahman Ramadhan</a> 👋</h1>
+  <h1>Hai, Saya Rizky Fadlurrahman Ramadhan 🚀</h1>
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Ampus11&label=Pengunjung%20Profil&color=0e75b6&style=flat" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/Fokus-FrontEnd%20Development-blue?style=flat" alt="Fokus" />
-    <img src="https://img.shields.io/badge/Lagi%20Belajar-Golang-00ADD8?style=flat&logo=go&logoColor=white" alt="Belajar Golang" />
-  </p>
-
-  <p>
-    <em>🚀 Pengembang perangkat lunak yang antusias membangun antarmuka web modern, eksplorasi integrasi AI, dan menulis kode yang bersih serta mudah dirawat.</em>
-  </p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=00ADD8&size=24&center=true&vCenter=true&width=700&lines=FrontEnd+Developer;Sedang+Mendalami+Golang;Eksplorasi+AI+%26+Automasi;Salam+Kenal+Semua!" alt="Typing SVG" />
+  </a>
 </div>
 
----
+<br>
 
-### 💫 Tentang Saya
+<div align="center">
+  <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=Ampus11&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Statistik GitHub" />
+  <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ampus11&layout=compact&theme=radical&hide_border=true" alt="Bahasa Teratas" />
+</div>
 
-- 🔭 **Sedang Mengerjakan:** Proyek web frontend dan eksplorasi ekosistem backend menggunakan **Golang**
-- 🌱 **Sedang Mendalami:** Integrasi LLM / AI, otomasi alur kerja (*workflows*), dan *cloud deployment*
-- ⚡ **Waktu Luang:** Eksplorasi teknologi baru, melakukan *code review*, dan bermain game
-- 📫 **Hubungi Saya:** [rizkyf.ramadhan121@gmail.com](mailto:rizkyf.ramadhan121@gmail.com)
+<br>
 
----
+## 🛠️ Bahasa & Alat (Languages and Tools)
 
-### 🛠️ Keahlian & Alat Kerja
+#### 💻 Main Stack:
+[<img height="48px" width="48px" alt="HTML5" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img height="48px" width="48px" alt="CSS3" src="https://developer.mozilla.org/en-US/docs/Web/CSS"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img height="48px" width="48px" alt="JavaScript" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img height="48px" width="48px" alt="TypeScript" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/)
+[<img height="48px" width="48px" alt="PHP" src="https://skillicons.dev/icons?i=php"/>](https://www.php.net)
+[<img height="48px" width="48px" alt="Python" src="https://skillicons.dev/icons?i=python"/>](https://www.python.org/)
 
-#### 💻 Bahasa Pemrograman & Web
-<p align="left">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
+#### 📖 Sedang Dipelajari Saat Ini (Studying in this moment):
+[<img height="48px" width="48px" alt="Go" src="https://skillicons.dev/icons?i=go"/>](https://go.dev/)
 
-#### ⚙️ Platform, DevOps & Alat
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
+#### ⚙️ Tools & Platform:
+[<img height="48px" width="48px" alt="VS Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
+[<img height="48px" width="48px" alt="Git" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
+[<img height="48px" width="48px" alt="GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
+[<img height="48px" width="48px" alt="Vercel" src="https://skillicons.dev/icons?i=vercel"/>](https://vercel.com/)
 
----
+<br>
 
-### 📊 Statistik GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ampus11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=id" alt="Statistik GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ampus11&layout=compact&theme=tokyonight&hide_border=true&locale=id" alt="Bahasa Teratas" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ampus11&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="96%" />
-</p>
-
----
-
-### 🌐 Hubungi Saya
-
-<p align="left">
+## 🌐 Hubungi Saya (Connect with me):
+<div>
   <a href="https://www.linkedin.com/in/rizky-fadlurrahman-ramadhan-7a01b1382/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img loading="lazy" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Ampus11" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:rizkyf.ramadhan121@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img loading="lazy" src="https://img.shields.io/badge/Gmail-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
+</div>
