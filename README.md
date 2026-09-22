@@ -1,23 +1,35 @@
 <div align="center">
-  <img src="./avatar.png" width="130px" style="border-radius: 50%;" alt="Rizky Avatar" />
+  <img src="download.jpg" width="130px" style="border-radius: 50%;" alt="Rizky Avatar" />
   
-  <h1>Hai, Saya Rizky Fadlurrahman Ramadhan 🚀</h1>
+  <h1>Halo semua, saya <a href="https://github.com/Ampus11">Rizky Fadlurrahman Ramadhan</a> 🚀</h1>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?color=00ADD8&size=24&center=true&vCenter=true&width=700&lines=FrontEnd+Developer;Sedang+Mendalami+Golang;Eksplorasi+AI+%26+Automasi;Salam+Kenal+Semua!" alt="Typing SVG" />
   </a>
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Ampus11&label=Pengunjung%20Profil&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/Fokus-FrontEnd%20Development-blue?style=flat" alt="Fokus" />
+    <img src="https://img.shields.io/badge/Lagi%20Belajar-Golang-00ADD8?style=flat&logo=go&logoColor=white" alt="Belajar Golang" />
+  </p>
+
+  <p>
+    <em>🚀 Pengembang perangkat lunak yang antusias membangun antarmuka web modern, eksplorasi integrasi AI, dan menulis kode yang bersih serta mudah dirawat.</em>
+  </p>
 </div>
 
-<br>
+---
 
-<div align="center">
-  <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=Ampus11&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Statistik GitHub" />
-  <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ampus11&layout=compact&theme=radical&hide_border=true" alt="Bahasa Teratas" />
-</div>
+### 💫 Tentang Saya
 
-<br>
+- 🔭 **Sedang Mengerjakan:** Proyek web frontend dan eksplorasi ekosistem backend menggunakan **Golang**
+- 🌱 **Sedang Mendalami:** Integrasi LLM / AI, otomasi alur kerja (*workflows*), dan *cloud deployment*
+- ⚡ **Waktu Luang:** Eksplorasi teknologi baru, melakukan *code review*, dan bermain game
+- 📫 **Hubungi Saya:** [rizkyf.ramadhan121@gmail.com](mailto:rizkyf.ramadhan121@gmail.com)
 
-## 🛠️ Bahasa & Alat (Languages and Tools)
+---
+
+### 🛠️ Bahasa & Alat Kerja (Languages & Tools)
 
 #### 💻 Main Stack:
 [<img height="48px" width="48px" alt="HTML5" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -27,19 +39,33 @@
 [<img height="48px" width="48px" alt="PHP" src="https://skillicons.dev/icons?i=php"/>](https://www.php.net)
 [<img height="48px" width="48px" alt="Python" src="https://skillicons.dev/icons?i=python"/>](https://www.python.org/)
 
-#### 📖 Sedang Dipelajari Saat Ini (Studying in this moment):
+#### 📖 Sedang Dipelajari (Studying in this moment):
 [<img height="48px" width="48px" alt="Go" src="https://skillicons.dev/icons?i=go"/>](https://go.dev/)
 
-#### ⚙️ Tools & Platform:
+#### ⚙️ Platform, DevOps & Alat:
 [<img height="48px" width="48px" alt="VS Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
 [<img height="48px" width="48px" alt="Git" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
 [<img height="48px" width="48px" alt="GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
 [<img height="48px" width="48px" alt="Vercel" src="https://skillicons.dev/icons?i=vercel"/>](https://vercel.com/)
 
-<br>
+---
 
-## 🌐 Hubungi Saya (Connect with me):
-<div>
+### 📊 Statistik GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ampus11&show_icons=true&theme=radical&hide_border=true&count_private=true&locale=id" alt="Statistik GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ampus11&layout=compact&theme=radical&hide_border=true&locale=id" alt="Bahasa Teratas" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ampus11&theme=radical&hide_border=true" alt="GitHub Streak" width="96%" />
+</p>
+
+---
+
+### 🌐 Hubungi Saya (Connect with me)
+
+<p align="left">
   <a href="https://www.linkedin.com/in/rizky-fadlurrahman-ramadhan-7a01b1382/" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -49,4 +75,4 @@
   <a href="mailto:rizkyf.ramadhan121@gmail.com">
     <img loading="lazy" src="https://img.shields.io/badge/Gmail-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</div>
+</p>
