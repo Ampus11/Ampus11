@@ -25,7 +25,7 @@
 - 🔭 **Sedang Mengerjakan:** Proyek web frontend pribadi dan belajar **Golang**
 - 🌱 **Sedang Mendalami:** Integrasi LLM / AI, otomasi alur kerja (*workflows*), dan *cloud deployment*
 - ⚡ **Waktu Luang:** Membaca manga dan bermain game
-- 📫 **Hubungi Saya:** [rizkyf.ramadhan121@gmail.com](mailto:rizkyf.ramadhan121@gmail.com)
+- 📫 **Apa yang saya suka:** Game, Baca dan Mendengarkan Lagu terutama Jpop
 
 ---
 
