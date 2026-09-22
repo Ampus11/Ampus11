@@ -50,12 +50,6 @@
 ---
 
 ### 📊 Statistik GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ampus11&show_icons=true&theme=radical&hide_border=true&count_private=true&locale=id" alt="Statistik GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ampus11&layout=compact&theme=radical&hide_border=true&locale=id" alt="Bahasa Teratas" width="48%" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ampus11&theme=radical&hide_border=true" alt="GitHub Streak" width="96%" />
 </p>
