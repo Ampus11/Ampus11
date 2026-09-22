@@ -42,7 +42,7 @@
 #### 📖 Sedang Dipelajari (Studying in this moment):
 [<img height="48px" width="48px" alt="Go" src="https://skillicons.dev/icons?i=go"/>](https://go.dev/)
 
-#### 🧪 Pernah Dipakai / Masih Tahap Belajar (Familiar with):
+#### 🧪 Pernah Dipakai / Blm Terlalu familiar (Familiar with):
 [<img height="48px" width="48px" alt="Laravel" src="https://skillicons.dev/icons?i=laravel"/>](https://laravel.com/)
 [<img height="48px" width="48px" alt="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap"/>](https://getbootstrap.com/)
 [<img height="48px" width="48px" alt="TailwindCSS" src="https://skillicons.dev/icons?i=tailwind"/>](https://tailwindcss.com/)
