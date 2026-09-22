@@ -22,7 +22,7 @@
 
 ### 💫 Tentang Saya
 
-- 🔭 **Sedang Mengerjakan:** Proyek web frontend pribadi dan belajar **Golang**
+- 🔭 **Sedang Mengerjakan:** Proyek web frontend pribadi dan belajar **Go-lang**
 - 🌱 **Sedang Mendalami:** Integrasi LLM / AI, otomasi alur kerja (*workflows*), dan *cloud deployment*
 - ⚡ **Waktu Luang:** Membaca manga dan bermain game
 - 📫 **Apa yang saya suka:** Game, Baca dan Mendengarkan Lagu terutama Jpop
