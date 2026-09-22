@@ -33,7 +33,6 @@
 
 #### 💻 Main Stack:
 [<img height="48px" width="48px" alt="HTML5" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<img height="48px" width="48px" alt="CSS3" src="https://developer.mozilla.org/en-US/docs/Web/CSS"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img height="48px" width="48px" alt="JavaScript" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img height="48px" width="48px" alt="TypeScript" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/)
 [<img height="48px" width="48px" alt="PHP" src="https://skillicons.dev/icons?i=php"/>](https://www.php.net)
