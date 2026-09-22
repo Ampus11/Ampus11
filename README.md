@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./avatar.png" width="130px" style="border-radius: 50%;" alt="Rizky Avatar" />
+  <img src="download.jpg" width="130px" style="border-radius: 50%;" alt="Rizky Avatar" />
   
   <h1>Halo semua, saya <a href="https://github.com/Ampus11">Rizky Fadlurrahman Ramadhan</a> 👋</h1>
 
