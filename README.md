@@ -1,21 +1,21 @@
 <div align="center">
-  <img src="download.jpg" width="130px" style="border-radius: 50%;" alt="Rizky Avatar" />
-  
-  <h1>Halo semua, saya <a href="https://github.com/Ampus11">Rizky Fadlurrahman Ramadhan</a> 🚀</h1>
+  <img src="download.jpg" width="130px" style="border-radius: 50%;" alt="Rizky Avatar" />
+  
+  <h1>Halo semua, saya <a href="https://github.com/Ampus11">Rizky Fadlurrahman Ramadhan</a> 🚀</h1>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=00ADD8&size=24&center=true&vCenter=true&width=700&lines=FrontEnd+Developer;Sedang+Mendalami+Golang;Eksplorasi+AI+%26+Automasi;Salam+Kenal+Semua!" alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=00ADD8&size=24&center=true&vCenter=true&width=700&lines=FrontEnd+Developer;Sedang+Mendalami+Golang;Eksplorasi+AI+%26+Automasi;Salam+Kenal+Semua!" alt="Typing SVG" />
+  </a>
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Ampus11&label=Pengunjung%20Profil&color=0e75b6&style=flat" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/Fokus-FrontEnd%20Development-blue?style=flat" alt="Fokus" />
-    <img src="https://img.shields.io/badge/Lagi%20Belajar-Golang-00ADD8?style=flat&logo=go&logoColor=white" alt="Belajar Golang" />
-  </p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Ampus11&label=Pengunjung%20Profil&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/Fokus-FrontEnd%20Development-blue?style=flat" alt="Fokus" />
+    <img src="https://img.shields.io/badge/Lagi%20Belajar-Golang-00ADD8?style=flat&logo=go&logoColor=white" alt="Belajar Golang" />
+  </p>
 
-  <p>
-    <em>🚀 Pengembang perangkat lunak yang antusias membangun antarmuka web modern, eksplorasi integrasi AI, dan menulis kode yang bersih serta mudah dirawat.</em>
-  </p>
+  <p>
+    <em>🚀 Pengembang perangkat lunak yang antusias membangun antarmuka web modern, eksplorasi integrasi AI, dan menulis kode yang bersih serta mudah dirawat.</em>
+  </p>
 </div>
 
 ---
@@ -60,7 +60,7 @@
 ### 📊 Statistik GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ampus11&theme=radical&hide_border=true" alt="GitHub Streak" width="96%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ampus11&theme=radical&hide_border=true&type=png" alt="GitHub Streak" width="96%" />
 </p>
 
 ---
@@ -68,16 +68,16 @@
 ### 🌐 Hubungi Saya (Connect with me)
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/rizky-fadlurrahman-ramadhan-7a01b1382/" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Ampus11" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://wa.me/6281380027305" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="mailto:rizkyf.ramadhan121@gmail.com">
-    <img loading="lazy" src="https://img.shields.io/badge/Gmail-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="https://www.linkedin.com/in/rizky-fadlurrahman-ramadhan-7a01b1382/" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Ampus11" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://wa.me/6281380027305" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="mailto:rizkyf.ramadhan121@gmail.com">
+    <img loading="lazy" src="https://img.shields.io/badge/Gmail-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
